@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>offer</title>
+    <desc>Created with Sketch.</desc>
+    <g id="DB-Spiceclub-UI-final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SC_dashboard_v3-Copy-15" transform="translate(-143.000000, -548.000000)" stroke="#BDBDBD">
+            <g id="offer" transform="translate(144.000000, 549.000000)">
+                <circle id="Oval" cx="19.5" cy="9.5" r="1.5"></circle>
+                <polygon id="Path-30" stroke-linejoin="round" points="19.9188612 6 14.7334969 6.53959535 6 15.2606015 13.5385905 23 23 13.5730358 23 8.75244136"></polygon>
+                <circle id="Oval" fill-rule="nonzero" cx="15" cy="15" r="15"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

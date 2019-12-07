@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>profile</title>
+    <desc>Created with Sketch.</desc>
+    <g id="DB-Spiceclub-UI-final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SC_dashboard_v3-Copy-15" transform="translate(-145.000000, -304.000000)">
+            <g id="profile" transform="translate(146.000000, 305.000000)">
+                <circle id="Oval-7" stroke="#BDBDBD" cx="14" cy="14" r="14"></circle>
+                <circle id="Oval-8" fill="#BDBDBD" cx="14.2295082" cy="7.80327869" r="4.13114754"></circle>
+                <path d="M6.81962424,21.5785683 C6.58274562,16.6274952 9.05788127,14.1519587 14.2450312,14.1519587 C19.4321811,14.1519587 21.9142287,16.4923295 21.6911739,21.1730712" id="Path-23" stroke="#BDBDBD" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

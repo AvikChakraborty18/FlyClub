@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="21px" viewBox="0 0 25 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>spicecash</title>
+    <desc>Created with Sketch.</desc>
+    <g id="DB-Spiceclub-UI-final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SC_dashboard_v3-Copy-15" transform="translate(-148.000000, -490.000000)">
+            <g id="spicecash" transform="translate(147.000000, 487.000000)">
+                <rect id="Rectangle" x="0" y="0" width="27" height="27"></rect>
+                <path d="M24.75,23.0625 L2.25,23.0625 C1.62867966,23.0625 1.125,22.5588203 1.125,21.9375 L1.125,5.0625 C1.125,4.44117966 1.62867966,3.9375 2.25,3.9375 L24.75,3.9375 C25.3713203,3.9375 25.875,4.44117966 25.875,5.0625 L25.875,21.9375 C25.875,22.5588203 25.3713203,23.0625 24.75,23.0625 Z M24.75,5.0625 L2.25,5.0625 L2.25,21.9375 L24.75,21.9375 L24.75,5.0625 Z" id="Shape" fill="#BDBDBD" fill-rule="nonzero"></path>
+                <path d="M25.875,19.125 L20.8125,19.125 C20.761875,19.125 15.75,19.063125 15.75,13.5 C15.75,7.936875 21.31875,7.875 21.375,7.875 L25.875,7.875 L25.875,19.125 Z M21.375,9 C21.195,9 16.875,9.073125 16.875,13.5 C16.875,17.926875 20.649375,18 20.8125,18 L24.75,18 L24.75,9 L21.375,9 Z" id="Shape" fill="#BDBDBD" fill-rule="nonzero"></path>
+                <circle id="Oval" fill="#BDBDBD" cx="21.375" cy="13.5" r="1.6875"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

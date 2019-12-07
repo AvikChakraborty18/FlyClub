@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="41px" viewBox="0 0 30 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>club</title>
+    <desc>Created with Sketch.</desc>
+    <g id="DB-Spiceclub-UI-final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SC_dashboard_v3-Copy-15" transform="translate(-1056.000000, -138.000000)">
+            <g id="club" transform="translate(1056.000000, 138.000000)">
+                <path d="M0.642541048,26.3802038 C3.3222114,33.8383891 11.3120639,40.2912726 15.9715938,40.4978474 C19.7549533,40.6655783 27.7605256,32.7290339 29.4223428,26.4062336 C29.4931361,17.5271901 29.5155229,11.3847715 29.489523,7.98090466 C29.4790338,6.60768003 28.362853,5.4999924 26.9895885,5.4999924 L3.0641977,5.5 C1.70384081,5.5 0.593164392,6.58770911 0.564743218,7.94776891 C0.457547219,13.0775048 0.48345522,19.2218483 0.642541048,26.3802038 Z" id="Rectangle-13" stroke="#BDBDBD"></path>
+                <polygon id="Path-19" fill="#BDBDBD" points="13.1091504 17.8015458 15.5044552 11 17.9110961 17.7033806 25 17.7033806 19.5198376 22.1452398 21.4923156 29 15.5044552 25.0110081 9.43733157 29 11.4380158 22.2627474 6 17.8015458"></polygon>
+                <path d="M4,0 L27,0 C28.6568542,-3.04359188e-16 30,1.34314575 30,3 L1,3 L1,3 C1,1.34314575 2.34314575,3.04359188e-16 4,0 Z" id="Rectangle-15" fill="#BDBDBD"></path>
+            </g>
+        </g>
+    </g>
+</svg>

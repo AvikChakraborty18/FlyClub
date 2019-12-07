@@ -1,0 +1,156 @@
+.dashboardTabsWrapper {
+    width: 1256px;
+    padding: 30px 0px 0px 0px;
+    margin: 0 auto;
+    display: flex;
+}
+.dashboardTabsWrapper .tabMenuListWrapper {
+    height: 644px;
+    width: 274px;
+    border-radius: 8px;
+    margin-right: 35px;
+    background: white;
+}
+.dashboard.NavbarWrapper {
+    height: 171px;
+    background: red;
+    background: url('../../assets/images/userdashboardbg.png'); 
+    padding: 14px 28px 23px 30px;
+    border-radius: 8px 8px 0px 0px;
+    margin-bottom: 10px;
+}
+.dashboardTabsWrapper .tabMenuListWrapper ul li {
+    width: 100%;
+}
+.dashboardTabsWrapper .tabMenuListWrapper ul li a {
+    border-left: 7px solid #ffffff;
+    cursor: pointer;
+}
+.dashboardTabsWrapper .tabMenuListWrapper ul li a {
+    color: #757575;
+    font-size: 15px;
+    letter-spacing: 0.78px;
+    line-height: 17px;
+    width: 100%;
+    display: block;
+    padding: 22px 0px;
+    padding-left: 93px;
+    cursor: pointer;
+}
+.dashboardTabsWrapper .tabMenuListWrapper ul li a.active {
+    border-left: 7px solid #ED1C24;
+    background: #f8f8f8;
+}
+.dashboardTabsWrapper .tabMenuListWrapper ul li a.active {
+    font-weight: bold;
+}
+.dashboard.NavbarWrapper .subWrapper {
+    position: relative;
+}
+.dashboard.NavbarWrapper .subWrapper .spiceclubLogo {
+    height: 35px;
+    width: 103px;
+    background: url(../../assets/images/SpiceClubLogowhite.png);
+    background-size: cover;
+    position: relative;
+    margin-bottom: 35px;
+}
+.dashboard.NavbarWrapper .subWrapper .spiceclubLogo::after {
+    content: '';
+    position: absolute;
+    height: 2px;
+    width: 220px;
+    background: #FFFFFF;
+    bottom: -13px;
+    opacity: 0.5;
+}
+.dashboard.NavbarWrapper .subWrapper .myAccountCaption {
+    color: #FFFFFF;
+    font-size: 14px;
+    letter-spacing: 1.56px;
+    line-height: 23px;
+    position: absolute;
+    right: 0;
+    top: 10px;
+}
+.dashboard.NavbarWrapper .subWrapper .userIcon {
+    height: 55px;
+    width: 55px;
+    background-color: #FFFFFF;
+    border-radius: 50%;
+    margin-top: 5px;
+    position: relative;
+    text-align: center;
+    padding: 16px 0px;
+}
+.dashboard.NavbarWrapper .subWrapper .userIcon .userInitials {
+    font-style: normal;
+    color: #ED1C24;
+    font-size: 21px;
+    letter-spacing: 1.44px;
+    line-height: 25px;
+}
+.dashboard.NavbarWrapper .subWrapper .userDetail {
+    position: absolute;
+    top: 72px;
+    left: 80px;
+}
+.dashboard.NavbarWrapper .subWrapper .userDetail .userGreeting, .dashboard.NavbarWrapper .subWrapper .userDetail .userGreeting var {
+    color: #FFFFFF;
+    font-size: 15px;
+    letter-spacing: 1.23px;
+    line-height: 18px;
+    font-style: normal;
+    margin-bottom: 10px;
+}
+.dashboard.NavbarWrapper .subWrapper .userDetail .userGreeting, .dashboard.NavbarWrapper .subWrapper .userDetail .userGreeting var {
+    color: #FFFFFF;
+    font-size: 15px;
+    letter-spacing: 1.23px;
+    line-height: 18px;
+    font-style: normal;
+    margin-bottom: 10px;
+}
+.dashboard.NavbarWrapper .subWrapper .userDetail .userCurrentTier, .dashboard.NavbarWrapper .subWrapper .userDetail .userCurrentTier var {
+    color: #FFFFFF;
+    font-size: 13px;
+    letter-spacing: 0.67px;
+    line-height: 15px;
+    font-style: normal;
+}
+.dashboard.NavbarWrapper .subWrapper .userDetail .userCurrentTier, .dashboard.NavbarWrapper .subWrapper .userDetail .userCurrentTier var {
+    color: #FFFFFF;
+    font-size: 13px;
+    letter-spacing: 0.67px;
+    line-height: 15px;
+    font-style: normal;
+}
+#main-profile-tab.active {
+    background: url(../../assets/images/profileActive.svg) no-repeat;
+    background-position: 46px 15px;
+    background-color: #FFFAF4;
+}
+
+#main-profile-tab {
+    background: url(../../assets/images/profile.svg) no-repeat;
+    background-position: 46px 15px;
+}
+#main-trip-tab {
+    background: url(../../assets/images/tripsMenu.svg) no-repeat;
+    background-position: 46px 15px;
+    background-size: 32px;
+}
+#main-spceclub-tab {
+    background: url(../../assets/images/clubMenu.svg) no-repeat;
+    background-position: 46px 15px;
+    background-color: #ffffff;
+    background-size: 25px 32px;
+}
+#main-spicecash-tab {
+    background: url(../../assets/images/spicecash.svg) no-repeat;
+    background-position: 46px 18px;
+}
+#main-offers-tab {
+    background: url(../../assets/images/offer.svg) no-repeat;
+    background-position: 46px 15px;
+}
