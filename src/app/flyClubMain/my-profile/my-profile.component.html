@@ -1,1 +1,108 @@
-<p>my-profile works!</p>
+<div id="myProfile">
+<div class="detailsWrapper">
+    <div class="personalDetailsWrapper">
+        <div class="headerWrapper">
+            <p class="headerTxt">Personal Details</p>
+            <a href="javascript:void(0)" class="editPersonalDetails">Edit</a>
+        </div>
+        <div class="personalDetailsContent">
+            <label class="addProfilePhoto" for="ProfileimageUpload"><img src="" id="profileImage"><span>Add Photo</span></label>
+            <input id="ProfileimageUpload" type="file" name="profile_photo" placeholder="Photo" disabled accept="image/x-png,image/gif,image/jpeg">
+            <div class="titleWrapper">
+                <label>Title *</label>
+                <br>
+                <select style="width: 58px;height: 26px;" disabled>
+                    <option value="Mr">Mr.</option>
+                    <option value="Ms">Ms.</option>
+                    <option value="Mrs">Mrs.</option>
+                </select>
+            </div>
+            <div class="fnameWrapper">
+                <label>First Name *</label>
+                <br>
+                <input type="text" name="fname" style="width: 217px;" value="Constanza" disabled>
+            </div>
+            <div class="snameWrapper">
+                <label>Last Name *</label>
+                <br>
+                <input type="text" name="lname" style="width: 155px;" disabled value="Mariano">
+            </div>
+            <div class="dobWrapper">
+                <label>Date Of Birth *</label>
+                <br>
+                <input type="text" name="dob" style="width: 110px;" disabled class="dateClass" id="dobPer">
+            </div>
+            <a href="javascript:void(0)" class="changePassword"><span></span>Change Password</a>
+            <a href="javascript:void(0)" class="redeemNow">Save Changes</a>
+        </div>
+    </div>
+    <div class="profileProgressionWrapper">
+        <div class="profileProgressContentWrapper">
+            <div class="subWrapper">
+                <div class="profileIcon"></div>
+                <div class="profileCompletenessWrapper">
+                    <p class="header">Your profile is <var>50% </var>profile complete</p>
+                    <div class="progressBar">
+                        <div class="progressBarImg"></div>
+                        <div class="progressBarAnimateImg">
+                            <div class="loaderFiller"></div>
+                        </div>
+                    </div>
+                    <p class="getPoints">You can complete all details and get 500 points for free!</p>
+                </div>
+            </div>
+            <div class="cardWrapper">
+                <div class="cardWrapperContent">
+                    <div class="cards contact-Tab">
+                        <p class="header">Add Addresses</p>
+                        <div class="valueWrapper"><var class="value">+10%</var></div>
+                    </div>
+                    <div class="cards info-Tab">
+                        <p class="header">Add Marital Status</p>
+                        <div class="valueWrapper"><var class="value">+5%</var></div>
+                    </div>
+                    
+                    <div class="cards addMoreDetailsWrapper">
+                        <a href="#" class="addMoreDetails">+7 more</a>
+                    </div>
+                </div>
+                <div class="AddDetailsPopUpWrapper"  tabindex="-1">
+                    <div class="AddDetailsPopUp">
+                        <p class="header"><var>7</var> more</p>  
+                        <p class="header close">Close</p>   
+                           <div class="cards info-Tab">
+                               <p class="header">Add Anniversary</p>
+                               <div class="valueWrapper"><var class="value">+5%</var></div>
+                           </div>
+                           <div class="cards info-Tab">
+                               <p class="header">Add Nationality</p>
+                               <div class="valueWrapper"><var class="value">+5%</var></div>
+                           </div>
+                           <div class="cards info-Tab">
+                               <p class="header">Add Occupation</p>
+                               <div class="valueWrapper"><var class="value">+5%</var></div>
+                           </div>
+                           <div class="cards info-Tab">
+                               <p class="header">Add Emergency Details</p>
+                               <div class="valueWrapper"><var class="value">+5%</var></div>
+                           </div>
+                           <div class="cards travellers-Tab">
+                               <p class="header">Add Travellers</p>
+                               <div class="valueWrapper"><var class="value">+5%</var></div>
+                           </div>
+                           <div class="cards document-Tab">
+                               <p class="header">Add Passport Details</p>
+                               <div class="valueWrapper"><var class="value">+5%</var></div>
+                           </div>
+                           <div class="cards document-Tab">
+                               <p class="header">Add KYC detail</p>
+                               <div class="valueWrapper"><var class="value">+5%</var></div>
+                           </div>
+                           
+                        </div>  </div>
+              
+            </div>
+        </div>
+    </div>
+</div>
+</div>

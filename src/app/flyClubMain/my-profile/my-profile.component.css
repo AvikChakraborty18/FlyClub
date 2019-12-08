@@ -1,0 +1,223 @@
+#myProfile .detailsWrapper {
+    width: 947px;
+    display: flex;
+}
+#myProfile .detailsWrapper .personalDetailsWrapper {
+    height: 282px;
+    width: 492px;
+    border-radius: 8px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 15px 0 #d2d2d2;
+    margin-right: 30px;
+}
+#myProfile .detailsWrapper .personalDetailsWrapper .headerWrapper {
+    height: 65px;
+    border-radius: 6px 6px 0 0;
+    background-color: #F7941D;
+    display: flex;
+}
+#myProfile .detailsWrapper .personalDetailsWrapper .headerWrapper .headerTxt {
+    margin: 0;
+    color: #fffaf4;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: 1.33px;
+    padding: 20px 30px;
+    flex: 1;
+}
+#myProfile .detailsWrapper .personalDetailsWrapper .headerWrapper .editPersonalDetails {
+    font-size: 14px;
+    color: #FFFFFF;
+    letter-spacing: 0.78px;
+    line-height: 17px;
+    padding: 26px 21px 22px 0;
+    position: relative;
+}
+#myProfile .detailsWrapper .personalDetailsWrapper .headerWrapper .editPersonalDetails::before {
+    content: '';
+    display: inline-block;
+    width: 11px;
+    height: 11px;
+    background: url(../../../assets/images/edit_white.svg);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: -17px;
+    margin: auto;
+}
+#myProfile .detailsWrapper .personalDetailsWrapper .personalDetailsContent {
+    height: 217px;
+    padding: 20px 55px 25px 20px;
+    position: relative;
+}
+#myProfile .personalDetailsContent .addProfilePhoto {
+    display: inline-block;
+    height: 70px;
+    width: 70px;
+    background-color: #FFF4E7;
+    border-radius: 50%;
+    color: #757575;
+    padding: 20px;
+    font-size: 12px;
+    letter-spacing: -0.15px;
+    line-height: 14px;
+    text-align: center;
+    cursor: pointer;
+    position: relative;
+}
+#myProfile #profileImage {
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 50%;
+    object-fit: contain;
+    display: none;
+}
+#myProfile input, #myProfile select {
+    border: none;
+    border-bottom: 1px solid #979797 !important;
+    border-radius: 0;
+    font-size: 14px;
+}
+
+#ProfileimageUpload {
+    display: none;
+}
+#myProfile .personalDetailsContent .titleWrapper {
+    position: absolute;
+    top: 20px;
+    left: 115px;
+}
+.personalDetailsContent label {
+    color: #2E2C38;
+    font-size: 14px;
+    letter-spacing: -0.15px;
+    line-height: 14px;
+}
+#myProfile input, #myProfile select {
+    border: none;
+    border-bottom: 1px solid #979797 !important;
+    border-radius: 0;
+    font-size: 14px;
+}
+
+#myProfile select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: url(../../../assets/images/downBlack.svg) no-repeat;
+    background-position: 100%;
+    width: 100%;
+}
+#myProfile .personalDetailsContent .fnameWrapper {
+    position: absolute;
+    top: 20px;
+    left: 222px;
+}
+.personalDetailsContent label {
+    color: #2E2C38;
+    font-size: 14px;
+    letter-spacing: -0.15px;
+    line-height: 14px;
+}
+#myProfile input, #myProfile select {
+    border: none;
+    border-bottom: 1px solid #979797 !important;
+    border-radius: 0;
+    font-size: 14px;
+}
+#myProfile .personalDetailsContent .snameWrapper {
+    position: absolute;
+    top: 97px;
+    left: 115px;
+}
+.personalDetailsContent label {
+    color: #2E2C38;
+    font-size: 14px;
+    letter-spacing: -0.15px;
+    line-height: 14px;
+}
+#myProfile input, #myProfile select {
+    border: none;
+    border-bottom: 1px solid #979797 !important;
+    border-radius: 0;
+    font-size: 14px;
+}
+#myProfile .personalDetailsContent .dobWrapper {
+    position: absolute;
+    top: 97px;
+    left: 329px;
+}
+.personalDetailsContent label {
+    color: #2E2C38;
+    font-size: 14px;
+    letter-spacing: -0.15px;
+    line-height: 14px;
+}
+#myProfile .dateClass {
+    background: url(../../../assets/images/dateIcon.svg) !important;
+    background-repeat: no-repeat !important;
+    background-position: 94% 0px !important;
+    cursor: pointer;
+}
+
+#myProfile input, #myProfile select {
+    border: none;
+    border-bottom: 1px solid #979797 !important;
+    border-radius: 0;
+    font-size: 14px;
+}
+#myProfile .personalDetailsContent .changePassword {
+    position: absolute;
+    top: 182px;
+    left: 146px;
+    color: #424242;
+    font-size: 12px;
+    letter-spacing: 0.67px;
+    line-height: 15px;
+}
+#myProfile .personalDetailsContent .changePassword::before {
+    content: '';
+    display: inline-block;
+    width: 18px;
+    height: 23px;
+    background: url(../../../assets/images/lockgrey.svg) no-repeat;
+    position: absolute;
+    top: -8px;
+    left: -30px;
+}
+#myProfile input:disabled {
+    background: white;
+    color: #757575;
+}
+#myProfile select:disabled {
+    -moz-appearance: none;
+    appearance: none;
+    background: url(../../../assets/images/down.svg) no-repeat;
+    background-position: 100%;
+}
+#myProfile .dateClass:disabled {
+    background: url(../../../assets/images/dateIcongrey.svg) !important;
+    background-repeat: no-repeat !important;
+    background-position: 94% 0px !important;
+}
+.personalDetailsWrapper .redeemNow {
+    display: block;
+    height: 30px;
+    width: 120px;
+    border-radius: 6px;
+    background-color: #ED1C24;
+    font-size: 12px;
+    font-weight: normal;
+    letter-spacing: 1.56px;
+    line-height: 17px;
+    text-align: center;
+    color: #ffffff;
+    padding: 8px 0;
+    margin: 0 auto;
+    position: absolute;
+    right: 50px;
+    bottom: 18px;
+}
