@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8.94280904,8 L12.4714045,11.5285955 C12.731754,11.788945 12.731754,12.211055 12.4714045,12.4714045 C12.211055,12.731754 11.788945,12.731754 11.5285955,12.4714045 L8,8.94280904 L4.47140452,12.4714045 C4.21105499,12.731754 3.78894501,12.731754 3.52859548,12.4714045 C3.26824595,12.211055 3.26824595,11.788945 3.52859548,11.5285955 L7.05719096,8 L3.52859548,4.47140452 C3.26824595,4.21105499 3.26824595,3.78894501 3.52859548,3.52859548 C3.78894501,3.26824595 4.21105499,3.26824595 4.47140452,3.52859548 L8,7.05719096 L11.5285955,3.52859548 C11.788945,3.26824595 12.211055,3.26824595 12.4714045,3.52859548 C12.731754,3.78894501 12.731754,4.21105499 12.4714045,4.47140452 L8.94280904,8 Z" id="path-1"></path>
+    </defs>
+    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SpiceClub-mobile-web-Copy" transform="translate(-169.000000, -973.000000)">
+            <g id="x" transform="translate(166.000000, 970.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Combined-Shape" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                <g id="grey-col" mask="url(#mask-2)" fill="#BDBDBD" fill-rule="evenodd">
+                    <rect id="Rectangle" x="0" y="0" width="16" height="16"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
