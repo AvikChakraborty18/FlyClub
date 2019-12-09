@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>zoom-out</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14.4287094,13.1559172 L17.7363961,16.4636039 C18.087868,16.8150758 18.087868,17.3849242 17.7363961,17.7363961 C17.3849242,18.087868 16.8150758,18.087868 16.4636039,17.7363961 L13.1559172,14.4287094 C11.7702135,15.5371744 10.0125123,16.2 8.1,16.2 C3.62649353,16.2 0,12.5735065 0,8.1 C0,3.62649353 3.62649353,0 8.1,0 C12.5735065,0 16.2,3.62649353 16.2,8.1 C16.2,10.0125123 15.5371744,11.7702135 14.4287094,13.1559172 Z M12.6372473,12.470752 C13.7287588,11.3379254 14.4,9.79735109 14.4,8.1 C14.4,4.62060608 11.5793939,1.8 8.1,1.8 C4.62060608,1.8 1.8,4.62060608 1.8,8.1 C1.8,11.5793939 4.62060608,14.4 8.1,14.4 C9.79735109,14.4 11.3379254,13.7287588 12.470752,12.6372473 C12.4944375,12.6064428 12.5203881,12.5768197 12.5486039,12.5486039 C12.5768197,12.5203881 12.6064428,12.4944375 12.6372473,12.470752 Z" id="path-1"></path>
+    </defs>
+    <g id="DB-My-trips-Flights-UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SC_dashboard_oneway-Copy" transform="translate(-1074.000000, -139.000000)">
+            <g id="zoom-out" transform="translate(1074.000000, 139.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Combined-Shape" fill="#565656" fill-rule="nonzero" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

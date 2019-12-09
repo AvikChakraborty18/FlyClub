@@ -1,0 +1,10 @@
+#myFlights .detailsWrapper{width:947px;}
+#myTripsSubList li a{padding:0 !important;padding-left:128px !important;padding-top:24px !important;position:relative !important;font-size:14px !important;letter-spacing:0.78px !important;border:0;}
+#myTripsSubList li a.active{color:#424242 !important;background:transparent;border:0;font-weight:bold;}
+#myTripsSubList li a.lastChild{padding-bottom:10px !important;}
+#myTripsSubList li a::before{content:'';height:8px;width:8px;background-color:#F7941D;border-radius:50%;position:absolute;left:110px;top:27px;}
+#myFlights .detailsWrapper .tabWrapper{height:65px;width:947px;border-radius:8px 8px 0 0;background-color:#FFFFFF;box-shadow:0 2px 15px 0 #D2D2D2;position:relative;padding-top:16px;padding-left:32px;z-index:999;}
+#myFlights .detailsWrapper .tabWrapper .searchPNR{position:absolute;right:43px;top:15px;}
+ #myFlights .detailsWrapper .tabWrapper .searchPNR input{height:35px;width:245px;border:0.5px solid #D2D2D2;border-radius:8px;background-color:#FFFFFF;padding-left:45px;background-image:url('../../../assets/images/zoom-out.svg');background-repeat:no-repeat;background-position:10px;padding-top:8px;} 
+#myFlights .detailsWrapper .tabWrapper .nav-pills .nav-link{color:#424242;font-size:14px;letter-spacing:0.78px;line-height:20px;padding-left:30px;padding-right:30px;}
+#myFlights .detailsWrapper .tabWrapper .nav-pills .nav-link.active, .nav-pills .show>.nav-link{border-radius:18px;background-color:#F7941D;color:#ffffff;}
